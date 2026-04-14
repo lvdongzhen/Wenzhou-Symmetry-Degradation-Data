@@ -4,11 +4,11 @@
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Symmetry Degradation Data" and cite the source article: ********************* <br>
 
 ***Data Storage Location***  <br>
-GitHub: https://github.com/lvdongzhen   <br>
+GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
-X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu   <br>
-Onedrive: 待更新   <br>
-Torrent(种子下载)：待更新  <br>
+Onedrive: https://1drv.ms/f/s!AnQLciP1URipkoZvx2CWRv0aOBhG9A?e   <br>
+X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu  <br>
+Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x)  <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Symmetry Degradation Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. If necessary, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details.
@@ -33,18 +33,29 @@ For inquiries or clarifications, please contact Dr. Dongzhen Lyu.  <br>
 Email: lvdongzhen@hrbeu.edu.cn   <br>
 WeChat ID: LyuDongzhen   <br>
 
+***Additional***  <br>
+If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “Wenzhou Randomized Battery Data”, “Wenzhou Cold Curse Battery Data”, “Wenzhou Sodium-ion Battery Degradation Data”, “Wenzhou Pack Degradation Data”, “Wenzhou Orbital Degradation Data” and “Wenzhou Symmetry Degradation Data” as appropriate. All available at ( https://github.com/lvdongzhen )   <br>
+
+The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code:   <br>
+Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science, 2024.   <br>
+Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
+Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
+Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations
+Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. 2026.   <br>
+吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
+
 # WZU镜像电池退化数据的许可协议
 
 ***数据访问和署名***  <br>
 相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU镜像电池退化数据”，并引用以下来源文章：“**********” <br>
 
-
 ***数据存储位置***  <br>
-GitHub: https://github.com/lvdongzhen   <br>
+GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
-X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu   <br>
-Onedrive: 待更新   <br>
-Torrent(种子下载)：待更新  <br>
+Onedrive: https://1drv.ms/f/s!AnQLciP1URipkoZvx2CWRv0aOBhG9A?e   <br>
+X_MOL个人主页: https://www.x-mol.com/groups/DongzhenLyu  <br>
+种子下载：https://wwqn.lanzoul.com/b00mpeez5c (密码:dr1x)  <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU镜像电池退化数据”（英文版本为 "Wenzhou Symmetry Degradation Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。如有需要，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
@@ -68,3 +79,15 @@ Torrent(种子下载)：待更新  <br>
 如有任何疑问需要澄清，请联系吕东祯博士。  <br>
 电子邮箱: lvdongzhen@hrbeu.edu.cn  <br>
 微信号: LyuDongzhen  <br>
+
+***额外事宜***  <br>
+如果使用其他温州系列电池退化数据集，请确保适当引用这些数据集，包括但不限于“WZU随机电池退化数据”、“WZU电池低温魔咒数据”、 “WZU钠离子电池退化数据”、“WZU成组电池退化数据”、“WZU轨道式电池退化数据”以及“WZU镜像电池退化数据”。 可访问获取( https://github.com/lvdongzhen )  <br>
+
+相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0），请务必引用相关来源文章:   <br>
+Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science, 2024.   <br>
+Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
+Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
+Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations
+Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. 2026.   <br>
+吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
