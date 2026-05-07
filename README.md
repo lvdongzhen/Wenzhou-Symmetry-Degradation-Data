@@ -1,3 +1,4 @@
+***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
 # License of Wenzhou Symmetry Degradation Data
 
 ***Accessibility and Attribution***  <br>
